@@ -25,7 +25,7 @@ Um modal abre um form contendo nome, email e um local para escrever o nome da m�
 ### Dificuldades encontradas
 
 Minha maior dificuldade neste projeto foi baixar músicas. Utilizei um site recomendado mas o mesmo bloqueava as músicas assim que eram baixadas. Tive problemas com vírus.
-Utilizei  então um programa chamado 'Format Factory' para converter vídeos em áudios de arquivos de mídia 'downnload free'. Só assim consegui adicionar os arquivos de mídia em meu projeto.
+Utilizei  então um programa chamado 'Format Factory' para converter vídeos em áudios de arquivos de mídia 'download free'. Só assim consegui adicionar os arquivos de mídia em meu projeto.
 O projeto é para fins de estudo e melhorias futuras.
 
 ## Como rodar o projeto
