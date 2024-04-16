@@ -33,6 +33,15 @@ O projeto é para fins de estudo e melhorias futuras.
 - Clone este repositório
 - Abra o VSCode
 - Rode o index.html pelo Live Server e conheça todas as funcionalidades deste projeto.
+
+## Print das Telas
+
+- Tela 1
+![tela 1](https://github.com/Carla-coder/Controle_de_Midias/assets/128012862/6bac4501-5617-40e2-94f0-ec267fa66200)
+
+- Tela 2
+![tela 2](https://github.com/Carla-coder/Controle_de_Midias/assets/128012862/fd59bdd7-1f7e-4955-a8f1-56ec7f17d8e8)
+
 ## Autores
 
 - [@octokatherine](https://www.github.com/octokatherine)
