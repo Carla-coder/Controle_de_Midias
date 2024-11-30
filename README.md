@@ -44,7 +44,7 @@ O projeto é para fins de estudo e melhorias futuras.
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
 ## Instituição de Ensino
 
